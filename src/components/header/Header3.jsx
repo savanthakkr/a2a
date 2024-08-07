@@ -101,7 +101,7 @@ function Header3() {
     <>
       <div className="top-bar2">
         <p>
-          Welcome Our Job Portal!{" "}
+          Welcome To NGHR Portal!{" "}
           <Link legacyBehavior href="/candidates-dashboard/bookmark">
             <a>Save Jobs</a>
           </Link>

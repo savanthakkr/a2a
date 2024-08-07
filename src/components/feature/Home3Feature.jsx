@@ -151,8 +151,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -242,8 +242,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Sylhet,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -427,8 +427,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -612,8 +612,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -712,8 +712,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -803,8 +803,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Sylhet,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -988,8 +988,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -1173,8 +1173,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -1273,8 +1273,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -1364,8 +1364,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Sylhet,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -1549,8 +1549,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -1734,8 +1734,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -1834,8 +1834,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -1925,8 +1925,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Sylhet,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -2110,8 +2110,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>
@@ -2295,8 +2295,8 @@ function Home3Feature() {
                             </li>
                             <li>
                               <p>
-                                <span className="title">Location:</span> Dhaka,
-                                Bangladesh
+                                <span className="title">Location:</span> Pune,
+                                India
                               </p>
                             </li>
                           </ul>

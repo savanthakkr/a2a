@@ -173,9 +173,7 @@ function jobDetails() {
                   </ul>
                 </div>
                 <div className="job-summary-area mb-50">
-                  <div className="pin">
-                    <img src="assets/images/icon/pin.svg" alt="" />
-                  </div>
+                  
                   <div className="job-summary-title">
                     <h6>Job Summary:</h6>
                   </div>
@@ -270,7 +268,7 @@ function jobDetails() {
                 <div className="location-area">
                   <h6>Get Location:</h6>
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.564763018799!2d90.36349791490355!3d23.834071191491947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c14c8682a473%3A0xa6c74743d52adb88!2sEgens%20Lab!5e0!3m2!1sen!2sbd!4v1674212581590!5m2!1sen!2sbd"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3783.3294998704955!2d73.83277217519152!3d18.514006382578224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bf8f3a27237d%3A0xf34972cd5c0b2362!2sPrabhat%20Rd%2C%20Pune%2C%20Maharashtra%20411004!5e0!3m2!1sen!2sin!4v1722948745611!5m2!1sen!2sin"
                     style={{ border: 0 }}
                     allowFullScreen
                     loading="lazy"

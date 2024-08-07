@@ -1093,7 +1093,7 @@ function JobListing1() {
                               <li>
                                 <p>
                                   <span className="title">Location:</span>{" "}
-                                  Sylhet, Bangladesh
+                                  Pune, India
                                 </p>
                               </li>
                             </ul>
@@ -1185,7 +1185,7 @@ function JobListing1() {
                               <li>
                                 <p>
                                   <span className="title">Location:</span>{" "}
-                                  Chicago, Australia
+                                  Pune, India
                                 </p>
                               </li>
                             </ul>
@@ -1372,7 +1372,7 @@ function JobListing1() {
                               <li>
                                 <p>
                                   <span className="title">Location:</span>{" "}
-                                  New-York, USA
+                                  Pune, India
                                 </p>
                               </li>
                             </ul>

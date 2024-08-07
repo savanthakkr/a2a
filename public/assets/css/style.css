@@ -3135,6 +3135,13 @@ header.style-3.sticky {
     transform: translateY(0px);
   }
 }
+.header-logo {
+  max-width: 100px;
+  height: 100%;
+}
+.job-details-pages{
+  background-color: white;
+}
 header.style-3 .menu-close-btn i {
   color: var(--title-color1);
 }

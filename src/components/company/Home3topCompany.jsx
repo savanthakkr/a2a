@@ -9,7 +9,7 @@ function Home3topCompany() {
           <div className="col-12 d-flex flex-wrap align-items-end justify-content-md-between justify-content-start gap-3">
             <div className="section-title1">
               <h2>
-                JOBES Top <span>Companies</span>
+                NGHR Top <span>Companies</span>
               </h2>
               <p>To much valuable feed from our trusted users in world-wide.</p>
             </div>
@@ -36,8 +36,8 @@ function Home3topCompany() {
                     </Link>
                   </h5>
                   <p>
-                    <img src="/assets/images/icon/location.svg" alt="" /> Dhaka,
-                    Bangladesh
+                    <img src="/assets/images/icon/location.svg" alt="" /> Pune,
+                    India
                   </p>
                 </div>
                 <div className="bookmark">
@@ -76,8 +76,8 @@ function Home3topCompany() {
                     </Link>
                   </h5>
                   <p>
-                    <img src="/assets/images/icon/location.svg" alt="" /> Dhaka,
-                    Bangladesh
+                    <img src="/assets/images/icon/location.svg" alt="" /> Pune,
+                    India
                   </p>
                 </div>
                 <div className="bookmark">
@@ -117,7 +117,7 @@ function Home3topCompany() {
                   </h5>
                   <p>
                     <img src="/assets/images/icon/location.svg" alt="" />
-                    Chicago, Australia
+                    Pune, India
                   </p>
                 </div>
                 <div className="bookmark">
@@ -157,7 +157,7 @@ function Home3topCompany() {
                   </h5>
                   <p>
                     <img src="/assets/images/icon/location.svg" alt="" />{" "}
-                    Sylhet, Bangladesh
+                    Pune, India
                   </p>
                 </div>
                 <div className="bookmark">
@@ -196,8 +196,8 @@ function Home3topCompany() {
                     </Link>
                   </h5>
                   <p>
-                    <img src="/assets/images/icon/location.svg" alt="" /> West
-                    London, UK
+                    <img src="/assets/images/icon/location.svg" alt="" /> 
+                    Pune, India
                   </p>
                 </div>
                 <div className="bookmark">
@@ -237,7 +237,7 @@ function Home3topCompany() {
                   </h5>
                   <p>
                     <img src="/assets/images/icon/location.svg" alt="" />{" "}
-                    Sylhet, Bangladesh
+                    Pune, India
                   </p>
                 </div>
                 <div className="bookmark">

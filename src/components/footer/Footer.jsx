@@ -208,7 +208,7 @@ function Footer() {
             </div>
             <div className="col-lg-6 d-flex justify-content-lg-end justify-content-center">
               <div className="social-area">
-                <h6>Follow JOBES:</h6>
+                <h6>Follow NGHR:</h6>
                 <ul>
                   <li>
                     <a href="https://www.facebook.com/">
